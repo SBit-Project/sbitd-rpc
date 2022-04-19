@@ -2,7 +2,7 @@
   "name": "sbitd-rpc",
   "description": "Smart Bitcoin Client Library to connect to SBIT Core via RPC",
   "version": "0.0.1",
-  "author": "SBIT <dev@sbit.com>",
+  "author": "SBIT <dev@sbit.dev>",
   "contributors": [],
   "keywords": [
     "sbit",
